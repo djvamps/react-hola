@@ -14,7 +14,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://pengrafic.com"
+          href="https://pengrafic.netlify.app"
           target="_blank"
           rel="noopener noreferrer"
         >
