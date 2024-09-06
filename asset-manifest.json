@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-hola/static/css/main.d6e008f1.css",
+    "main.js": "/react-hola/static/js/main.d8fce437.js",
+    "static/js/453.cade04a9.chunk.js": "/react-hola/static/js/453.cade04a9.chunk.js",
+    "static/media/logo.svg": "/react-hola/static/media/logo.7aed38f6f780b02d2752c65f02100da3.svg",
+    "index.html": "/react-hola/index.html",
+    "main.d6e008f1.css.map": "/react-hola/static/css/main.d6e008f1.css.map",
+    "main.d8fce437.js.map": "/react-hola/static/js/main.d8fce437.js.map",
+    "453.cade04a9.chunk.js.map": "/react-hola/static/js/453.cade04a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e008f1.css",
+    "static/js/main.d8fce437.js"
+  ]
+}
